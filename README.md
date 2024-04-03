@@ -38,7 +38,7 @@ This project was developed by [profumato4](https://github.com/profumato4).
 
 # License
 
-This software is licensed under the MIT license. See the [LICENSE](https://github.com/profumato4/JSpaceInvaders/blob/master/LICENSE.md) for more information.
+This software is licensed under the MIT license. See the [LICENSE](https://github.com/profumato4/MusicalKeyboard-Java/blob/main/LICENSE.md) for more information.
 
 # Question or Issues?
-If you have any questions or encounter any issues, please use the [issue](https://github.com/profumato4/JSpaceInvaders/issues) tracker in the repository to report them.
+If you have any questions or encounter any issues, please use the [issue](https://github.com/profumato4/MusicalKeyboard-Java/issues) tracker in the repository to report them.
